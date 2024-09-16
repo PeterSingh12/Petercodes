@@ -1,3 +1,3 @@
 # Petercodes
 This is my first git repository
-Author- Petere Singh
+Author- Peter Singh
